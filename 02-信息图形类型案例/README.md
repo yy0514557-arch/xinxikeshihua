@@ -1,40 +1,34 @@
 # 02｜信息图形类型案例
 
-> **资料依据**：《第三讲-信息图形类型学》PDF，第22–38页。第36与37页同属“编年图+编目混合图”，因此这17个展示页对应 **16个类型条目**，不是17种互不重复的类型。第39页开始进入下一章，不属于本目录的类型清单。
+本目录按《第三讲-信息图形类型学》课件整理为 **16 种信息图形类型**。类型名称以用户确认清单为准；英文名称仅使用课件明确标注的版本。
 
-## 研究定位
+## 16种类型文档
 
-本目录是**表现类型与案例分析层**，与 [01 数据架构逻辑](../01-信息图形数据逻辑/README.md) 不同。一个案例可以同时属于多个表现类型和一个或多个数据逻辑类型。分类以PDF原有标题为依据，不擅自补齐、改名或将名称相近者合并。
+1. [混合型信息图形 Mixed Charts](01-混合型信息图形-Mixed-Charts.md)
+2. [文字型／列表型信息图形 Informational / List Infographics](02-文字型列表型信息图形-Informational-List.md)
+3. [时间轴型信息图形 Timeline Infographics](03-时间轴型信息图形-Timeline.md)
+4. [示意图型信息图形 How-to Infographics](04-示意图型信息图形-How-to.md)
+5. [流程图型信息图形 Process Infographics](05-流程图型信息图形-Process.md)
+6. [比较型信息图形 Comparison Infographics](06-比较型信息图形-Comparison.md)
+7. [地标型信息图形 Location Infographics](07-地标型信息图形-Location.md)
+8. [图片式信息图形 Photo-graphic Infographics](08-图片式信息图形-Photo-graphic.md)
+9. [层级型信息图形 Hierarchical Infographics](09-层级型信息图形-Hierarchical.md)
+10. [单一图表型信息图形 Single Chart](10-单一图表型信息图形-Single-chart.md)
+11. [文字可视化 Visualized Text](11-文字可视化-Visualized-Text.md)
+12. [解剖式信息图形 Anatomical](12-解剖式信息图形-Anatomical.md)
+13. [可视化简历 Visual Resume](13-可视化简历-Visual-Resume.md)
+14. [手稿型（课件未标英文）](14-手稿型.md)
+15. [编年与编目混合图（课件未标英文）](15-编年与编目混合图.md)
+16. [三维信息图形（课件未标英文）](16-三维信息图形.md)
 
-## 类型与原始案例索引
+## 案例素材与分析
 
-| 类型 | PDF页码 | 说明文档 |
-|---|---|---|
-| 01 混合型信息图形（Mixed Charts） | 22 | [打开](./01-混合型信息图形-Mixed-Charts.md) |
-| 02 文字型／列表型信息图形（Informational / List Infographics） | 23 | [打开](./02-文字型列表型信息图形-Informational-List.md) |
-| 03 时间轴型信息图形（Timeline Infographics） | 24 | [打开](./03-时间轴型信息图形-Timeline.md) |
-| 04 示意图型（How-to Infographics） | 25 | [打开](./04-示意图型信息图形-How-to.md) |
-| 05 流程图型（Process Infographics） | 26 | [打开](./05-流程图型信息图形-Process.md) |
-| 06 比较型信息图形（Comparison Infographics） | 27 | [打开](./06-比较型信息图形-Comparison.md) |
-| 07 地标型信息图形（Location Infographics） | 28 | [打开](./07-地标型信息图形-Location.md) |
-| 08 图片式信息图形（Photo-graphic Infographics） | 29 | [打开](./08-图片式信息图形-Photo-graphic.md) |
-| 09 层级型信息图形（Hierarchical Infographics） | 30 | [打开](./09-层级型信息图形-Hierarchical.md) |
-| 10 单一图表型信息图形（Single chart） | 31 | [打开](./10-单一图表型信息图形-Single-chart.md) |
-| 11 视觉化文字（Visualized Text） | 32 | [打开](./11-视觉化文字-Visualized-Text.md) |
-| 12 解剖结构型（Anatomical） | 33 | [打开](./12-解剖结构型-Anatomical.md) |
-| 13 可视化简历（Visual Resume） | 34 | [打开](./13-可视化简历-Visual-Resume.md) |
-| 14 手稿型（Hand-drawn / Manuscript style） | 35 | [打开](./14-手稿型.md) |
-| 15 编年图＋编目混合图（Chronological + Cataloged） | 36–37 | [打开](./15-编年图与编目混合图.md) |
-| 16 三维信息图形（3D Infographics） | 38 | [打开](./16-三维信息图形-3D.md) |
+- 课件案例页码：第22–38页；第36–37页对应编年与编目混合图。
+- `素材/` 用于存放从课件或用户提供来源中整理的原始案例图；`案例分析/` 存放逐张案例研究。
+- 类型说明文件是分类入口和持续归纳文档；具体图片事实需在案例分析中注明来源页码。
+- 每个案例按 A 数据逻辑、B 统计图形与计算、C 视觉编码、D 信息架构、E 视觉叙事分析。
+- 01 目录只通过 Markdown 相对链接引用本目录的案例分析，不复制图片。
 
-## 证据与案例工作流
+## 文件状态说明
 
-- **PDF原始展示页**是第一批可分析的案例证据，页码见上表。当前先记录页面观察，不将低清晰度图片里的数字推断为精确统计数据。
-- 每张独立案例可用 `CASE-0001` 编号，分析存放于 `案例分析/`；若后续获得原始图片及出处，统一保存在 `素材/`，而非01。
-- 类型说明持续更新：A 数据逻辑，B 统计图形与计算，C 视觉编码，D 信息架构，E 视觉叙事；记录来源、观察、推断、待核验事项及跨案例规律。
-- PDF的设计原则（第40–71页）作为方法论参考，不直接当作第22–38页每张图片的可观察事实。
-- [01](../01-信息图形数据逻辑/README.md) 只用相对Markdown链接引用02的案例分析，**不复制案例图片**。
-
-## 待补充
-
-原始图片版权、作者、数据源、计算口径和高清细节尚需逐例核实。此阶段不虚构数值或作品出处。
+11–16号类型说明文档已补齐。课件页面图像素材需以可查看的页面图片文件单独加入 `素材/`，并保持课件来源页码标注。
