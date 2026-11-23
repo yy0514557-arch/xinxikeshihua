@@ -1,42 +1,39 @@
 # 02｜信息图形类型案例
 
-本目录采用“一个总目录 + 17 个类型文档 + 两个功能文件夹”的结构。类型名称以用户确认的清单为准；第17类“词云图”为用户后续新增。
+本目录采用统一结构：**总目录 README + 17 个类型文件夹**。每种类型独立成文件夹，说明文档、案例图片和逐案分析均归入对应类型文件夹，不再设置单独的“素材”总文件夹或“案例分析”总文件夹。
 
-## 一、类型文档（01–17）
+## 17 种信息图形类型
 
-01. [混合型信息图形 Mixed Charts](01-混合型信息图形-Mixed-Charts.md)
-02. [文字型／列表型信息图形 Informational / List](02-文字型列表型信息图形-Informational-List.md)
-03. [时间轴型信息图形 Timeline](03-时间轴型信息图形-Timeline.md)
-04. [示意图型信息图形 How-to](04-示意图型信息图形-How-to.md)
-05. [流程图型信息图形 Process](05-流程图型信息图形-Process.md)
-06. [比较型信息图形 Comparison](06-比较型信息图形-Comparison.md)
-07. [地标型信息图形 Location](07-地标型信息图形-Location.md)
-08. [图片式信息图形 Photo-graphic](08-图片式信息图形-Photo-graphic.md)
-09. [层级型信息图形 Hierarchical](09-层级型信息图形-Hierarchical.md)
-10. [单一图表型信息图形 Single Chart](10-单一图表型信息图形-Single-chart.md)
-11. [文字可视化 Visualized Text](11-文字可视化-Visualized-Text.md)
-12. [解剖式信息图形 Anatomical](12-解剖式信息图形-Anatomical.md)
-13. [可视化简历 Visual Resume](13-可视化简历-Visual-Resume.md)
-14. [手稿型](14-手稿型.md)
-15. [编年与编目混合图](15-编年与编目混合图.md)
-16. [三维信息图形](16-三维信息图形.md)
-17. [词云图 Word Cloud](17-词云图-Word-Cloud.md)
+01. [混合型信息图形 Mixed Charts](01-混合型信息图形-Mixed-Charts/README.md)
+02. [文字型／列表型信息图形 Informational / List Infographics](02-文字型列表型信息图形-Informational-List/README.md)
+03. [时间轴型信息图形 Timeline Infographics](03-时间轴型信息图形-Timeline/README.md)
+04. [示意图型信息图形 How-to Infographics](04-示意图型信息图形-How-to/README.md)
+05. [流程图型信息图形 Process Infographics](05-流程图型信息图形-Process/README.md)
+06. [比较型信息图形 Comparison Infographics](06-比较型信息图形-Comparison/README.md)
+07. [地标型信息图形 Location Infographics](07-地标型信息图形-Location/README.md)
+08. [图片式信息图形 Photo-graphic Infographics](08-图片式信息图形-Photo-graphic/README.md)
+09. [层级型信息图形 Hierarchical Infographics](09-层级型信息图形-Hierarchical/README.md)
+10. [单一图表型信息图形 Single Chart](10-单一图表型信息图形-Single-chart/README.md)
+11. [文字可视化 Visualized Text](11-文字可视化-Visualized-Text/README.md)
+12. [解剖式信息图形 Anatomical](12-解剖式信息图形-Anatomical/README.md)
+13. [可视化简历 Visual Resume](13-可视化简历-Visual-Resume/README.md)
+14. [手稿型（课件未标英文）](14-手稿型/README.md)
+15. [编年与编目混合图（课件未标英文）](15-编年与编目混合图/README.md)
+16. [三维信息图形（课件未标英文）](16-三维信息图形/README.md)
+17. [词云图 Word Cloud](17-词云图-Word-Cloud/README.md)
 
-## 二、功能文件夹
+## 每个类型文件夹的统一内容
 
-- [素材](素材/README.md)：只存放实际案例图片、原始截图及其来源说明，不重复放类型文档。
-- [案例分析](案例分析)：存放逐张案例的深入分析，文件名按“类型编号-案例编号-案例名称”统一。
+- `README.md`：该类型的概念说明与持续更新的研究结论。
+- `案例/`：该类型对应的案例图片及来源记录。
+- `分析/`：逐张案例的 A–E 五维分析文档。
 
-## 三、统一分析框架
-
-每张案例按以下五个维度记录：
+## 统一分析维度
 
 A｜基本数据逻辑  
 B｜统计图形与计算  
-C｜视觉编码  
-D｜信息架构  
-E｜视觉叙事
+C｜视觉编码（点、线、面、体、符号、色彩等）  
+D｜数据／信息架构  
+E｜视觉叙事架构
 
-## 四、素材来源与分类说明
-
-课件：《第三讲-信息图形类型学》；原课件类型页码以各类型文档和实际案例记录为准。第17类“词云图”由用户追加，不作为原课件已有分类。
+案例结论须以实际图片和可核实资料为依据；区分画面观察、推断与待核实事项。01-信息图形数据逻辑目录仅通过 Markdown 相对链接引用这里的案例分析，不存放图片。
