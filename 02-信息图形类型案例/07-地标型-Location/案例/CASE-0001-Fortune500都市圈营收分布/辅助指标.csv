@@ -1,0 +1,6 @@
+﻿record_id,subject_id,metric,value,unit
+A01,new_york,fortune500_hq_count,65,companies
+A02,new_york,share_of_fortune500_revenue,12.5,percent
+A03,mckesson,fortune500_rank,8,rank
+A04,mckesson,annual_revenue,214,USD_billion
+A05,tech_metro_3,combined_revenue_2019,2.04,USD_trillion
