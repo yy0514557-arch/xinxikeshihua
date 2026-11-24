@@ -1,0 +1,6 @@
+stage_id,order_key,stage_name
+S01,1,Brief
+S02,2,Research
+S03,3,Study
+S04,4,Proposals
+S05,5,Delivery

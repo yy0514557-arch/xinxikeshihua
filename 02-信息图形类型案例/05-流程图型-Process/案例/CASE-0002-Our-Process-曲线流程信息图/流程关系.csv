@@ -1,0 +1,6 @@
+relation_id,source_stage_id,target_stage_id,relation_type,evidence_level
+R01,S01,S02,main_sequence,layout_inference
+R02,S02,S03,main_sequence,layout_inference
+R03,S03,S04,main_sequence,layout_inference
+R04,S04,S05,main_sequence,layout_inference
+R05,S04,S03,feedback,visual_inference
